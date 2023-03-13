@@ -1,4 +1,4 @@
-<br>
+**<br>
 
 <div align="center">
   <img src=".github/assets/img/icon.png" width="100">
@@ -16,7 +16,7 @@
 </div>
 
 
-> 🚨 WARNING: USE AT YOUR OWN RISK. This is a self-bot and is in violation of Discord's and Dank Memer's rules and TOS. By using this software, you acknowledge that we take no responsibility for any action taken against your account, whether by Discord or Dank Memer.
+> 🚨 WARNING: USE AT YOUR OWN RISK. This is a self-bot and violates Discord's and Dank Memer's rules and TOS. By using this software, you acknowledge that we take no responsibility for any action against your account, whether by Discord or Dank Memer.
 >
 >Possible actions that could be taken against your account include but are not limited to suspension or termination.
 >
@@ -80,3 +80,4 @@
 3. Go to the commands tab and toggle the commands to your liking.
 4. Start / Stop the entire bot using the toggle on the bottom left.
 5. Repeat steps **1-4** for as many accounts as you would like.
+**
