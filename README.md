@@ -1,4 +1,4 @@
-**<br>
+<br>
 
 <div align="center">
   <img src=".github/assets/img/icon.png" width="100">
@@ -80,4 +80,3 @@
 3. Go to the commands tab and toggle the commands to your liking.
 4. Start / Stop the entire bot using the toggle on the bottom left.
 5. Repeat steps **1-4** for as many accounts as you would like.
-**
